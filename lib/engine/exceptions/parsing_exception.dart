@@ -1,0 +1,1 @@
+class ParsingException implements Exception {}

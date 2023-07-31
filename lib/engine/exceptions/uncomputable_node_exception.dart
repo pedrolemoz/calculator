@@ -1,0 +1,1 @@
+class UncomputableNodeException implements Exception {}
